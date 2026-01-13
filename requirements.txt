@@ -1,0 +1,10 @@
+helical
+scanpy
+anndata
+transformers
+datasets<4.0.0
+psutil
+numpy
+pandas
+scipy
+matplotlib
