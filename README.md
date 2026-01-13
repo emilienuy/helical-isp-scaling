@@ -2,8 +2,7 @@
 
 This repository contains a Jupyter notebook benchmarking naive per-cell vs batched inference for Geneformer in-silico perturbations using the Helical yolksac dataset.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
-(https://colab.research.google.com/github/emilienuy/helical-isp-scaling/blob/main/isp_scaling_challenge.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emilienuy/helical-isp-scaling/blob/main/isp_scaling_challenge.ipynb)
 
 ## Contents
 
