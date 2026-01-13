@@ -3,7 +3,7 @@
 This notebook benchmarks naive per-cell vs batched inference for Geneformer in-silico perturbations using the Helical yolksac dataset.
 
 ## Contents
-- Data Perturbations
+- In-silico perturbation generation
 - Baseline: naive per-cell loop
 - Optimization: batched inference + batch-size scaling analysis
 - Correctness validation: embedding equivalence vs baseline
